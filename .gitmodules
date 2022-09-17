@@ -8,13 +8,3 @@
 	url = https://github.com/pmoulos/metaseqr2
 	shallow = true
 	registered = true
-[submodule "recoup"]
-	path = recoup
-	url = https://github.com/pmoulos/recoup
-	shallow = true
-	registered = true
-[submodule "sitadela"]
-	path = sitadela
-	url = https://github.com/pmoulos/sitadela
-	shallow = true
-	registered = true
