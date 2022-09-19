@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "metaseqR2"]
-	path = metaseqR2
-	url = https://github.com/pmoulos/metaseqr2
-	shallow = true
-	registered = true
