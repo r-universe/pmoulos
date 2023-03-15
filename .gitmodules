@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sitadela"]
-	path = sitadela
-	url = https://github.com/pmoulos/sitadela
-	shallow = true
-	registered = true
 [submodule "metaseqR2"]
 	path = metaseqR2
 	url = https://github.com/pmoulos/metaseqr2
@@ -16,5 +11,10 @@
 [submodule "recoup"]
 	path = recoup
 	url = https://github.com/pmoulos/recoup
+	shallow = true
+	registered = true
+[submodule "sitadela"]
+	path = sitadela
+	url = https://github.com/pmoulos/sitadela
 	shallow = true
 	registered = true
